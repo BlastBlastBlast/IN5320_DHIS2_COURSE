@@ -1,1 +1,1 @@
-.DS_Store echo # IN5320_DHIS2_COURSE
+Summary of the DHIS2 Course
